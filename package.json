@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "get": "ts-node index.ts"
+    "get": "ts-node index.ts",
+    "save": "ts-node saveMetadata.ts"
   },
   "author": "",
   "license": "ISC",
